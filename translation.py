@@ -10,8 +10,11 @@ now please send the Telegram code that you received from Telegram!
 
 this code is only used for the purpose of getting the APP ID from my.telegram.org
 if you do not trust this bot dev, please host this bot yourself
-by opening https://github.com/SpEcHiDe/MyTelegramOrgRoBot and clicking on the Pink Button
-
+by opening
+        https://github.com/Detective-Project/MyTelegramOrgRoBot
+                            Or
+   https://github.com/SpEcHiDe/MyTelegramOrgRoBot 
+             
 /start at any stage to re-enter your details"""
     BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."
     ERRED_PAGE = "something wrongings. failed to get app id. \n\n@SpEcHlDe"
