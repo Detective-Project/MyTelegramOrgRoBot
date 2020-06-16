@@ -2,7 +2,7 @@
 
 ~~(yet)~~ another my.telegram.org scrapper inside Telegram.
 
-- can be found on Telegram  [SCRAP TELEGRAM APP ID AND API HASH) (https://telegram.dog/useTGXBot) [MY TELEGRAMORG ROBOT] (https://t.me/bigherotelegramorgro_bot)
+- can be found on Telegram  [SCRAP TELEGRAM APP ID AND API HASH)(https://telegram.dog/useTGXBot) [MY TELEGRAMORG ROBOT](https://t.me/bigherotelegramorgro_bot)
 
 ## installing
 
